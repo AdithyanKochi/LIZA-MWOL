@@ -8,7 +8,7 @@
 <a href="#"><img title="Ricky MWOL" src="https://img.shields.io/badge/Ricky MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href=https://github.com/AdithyanKochi"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-RickyMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href=https://github.com/AdithyanKochi"><img title="Author" src="https://img.shields.io/badge/Author-45UR4 V3TH4L4M-RickyMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
